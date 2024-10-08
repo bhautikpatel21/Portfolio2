@@ -363,7 +363,7 @@ section .title::after{
     display: flex;
 }
 .ulmenu {
-    width: 500px;
+    width: 400px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     list-style:outside;
